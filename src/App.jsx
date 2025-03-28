@@ -81,7 +81,7 @@ const MyApp = () => {
                     <RangePicker />
 				</Form.Item>
 				<Form.Item>
-					<Button type="primary">Submit</Button>
+					<Button type="primary">Search</Button>
 				</Form.Item>
 			</Form>
 		</div>
