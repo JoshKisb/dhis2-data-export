@@ -69,7 +69,6 @@ const MyApp = () => {
                 <TreeSelect
                     showSearch
                     style={{ width: '100%' }}
-                    value={value}
                     dropdownStyle={{ maxHeight: 400, overflow: 'auto' }}
                     placeholder="Please select"
                     allowClear
